@@ -6,12 +6,9 @@ using namespace std;
 
 	int main(void) {
 
-		char a[] = { 's', 't', 'r', 'i', 'n', 'g' };
-		int counter = 0;
-		
-		while (counter < 6) {
-			cout << "counter is in box " << counter << " in the array, which has the value of: " << a[counter] << endl;
-			counter++;
+		int a[] = { 1, 2, 3, 4, 5 };
+		for (int * cp = a; *cp; cp++) {
+			cout << "character pointer is: " << *cp << endl;
 		}
 
 	return(0);

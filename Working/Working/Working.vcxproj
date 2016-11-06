@@ -18,9 +18,6 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\ExerciseFiles\Chap01\working - kopia=exercises.cpp" />
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4E74CD64-CC14-44B0-8A1E-E98B63765201}</ProjectGuid>
     <RootNamespace>Working</RootNamespace>
