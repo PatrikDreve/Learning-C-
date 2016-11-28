@@ -1,19 +1,15 @@
 // func.cpp by Bill Weinman <http://bw.org/>
 #include <cstdio>
-#include <string>
-using namespace std;
+#include "func - kopia_define.h"
 
-void func( const string & fs) {
-	printf("Value of fs is %s\n", fs.c_str());
+void func() {
+	puts("This is func");
 }
 
-int main(int argc, char ** argv)
-{
-	string s = "Hello, I'm a string";
+int main(int argc, char ** argv) {
 
 	puts("This is main");
-	func(s);
-	printf("String s is %s\n", s.c_str());
+	func();
 
 	return(0);
 }
