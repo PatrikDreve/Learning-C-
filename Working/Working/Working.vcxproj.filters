@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Chap02\jump - kopia.cpp">
+    <ClCompile Include="..\..\Chap02\func-overload - kopia.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

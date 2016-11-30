@@ -5,21 +5,6 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Working", "Working\Working.vcxproj", "{4E74CD64-CC14-44B0-8A1E-E98B63765201}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chap_02", "Chap_02", "{D05BDDF1-ACE4-4B38-A23F-87974419AF1A}"
-	ProjectSection(SolutionItems) = preProject
-		..\Chap02\func - kopia_define.h = ..\Chap02\func - kopia_define.h
-		..\Chap02\func-operator.cpp = ..\Chap02\func-operator.cpp
-		..\Chap02\func-overload.cpp = ..\Chap02\func-overload.cpp
-		..\Chap02\func.cpp = ..\Chap02\func.cpp
-		..\Chap02\func.h = ..\Chap02\func.h
-		..\Chap02\goto.cpp = ..\Chap02\goto.cpp
-		..\Chap02\jump - kopia.cpp = ..\Chap02\jump - kopia.cpp
-		..\Chap02\jump.cpp = ..\Chap02\jump.cpp
-		..\Chap02\recursive-factorial.cpp = ..\Chap02\recursive-factorial.cpp
-		..\Chap02\variadic.cpp = ..\Chap02\variadic.cpp
-		..\Chap02\working.cpp = ..\Chap02\working.cpp
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

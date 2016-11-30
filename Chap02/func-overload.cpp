@@ -1,4 +1,4 @@
-// func-overload.cpp by Bill Weinman <http://bw.org/>
+/* func-overload.cpp by Bill Weinman <http://bw.org/>
 // updated for C++EssT 2014-12-06
 #include <cstdio>
 using namespace std;
@@ -22,9 +22,9 @@ double volume( double a, double b, double c ) {
     return a * b * c;
 }
 
-int main( int argc, char ** argv ) {
+int //main( int argc, char ** argv ) {
     printf("volume of a 2 x 2 x 2 cube: %.3lf\n", volume(2.0));
     printf("volume of a cylinder, radius 2, height 2: %.3lf\n", volume(2.0, 2.0));
     printf("volume of a 2 x 3 x 4 cuboid: %.3lf\n", volume(2.0, 3.0, 4.0));
     return 0;
-}
+}*/
