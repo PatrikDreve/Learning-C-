@@ -19,7 +19,7 @@ double average(const int count, ...)
     return total / count;
 }
 
-// works like printf, format plus args
+// works like printf, format plus args 
 int message(const char * fmt, ...) {
     va_list ap;
     va_start(ap, fmt);

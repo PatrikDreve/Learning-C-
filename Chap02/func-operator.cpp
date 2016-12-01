@@ -1,4 +1,4 @@
-// func-operator.cpp by Bill Weinman <http://bw.org/>
+/* func-operator.cpp by Bill Weinman <http://bw.org/>
 // updated for C++EssT 2014-10-24
 #include <cstdio>
 using namespace std;
@@ -20,4 +20,4 @@ int main( int argc, char ** argv ) {
     A b(42);
     printf("add em up! %d\n", a + b);
     return 0;
-}
+}*/
