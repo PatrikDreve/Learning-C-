@@ -11,6 +11,7 @@ unsigned long int factorial(unsigned long int n) {
 }
 
 int main(int argc, char ** argv) {
-	unsigned long int n = 1;
+	unsigned long int n = 3;
 	printf("Factorial of %ld is: %ld\n", n, factorial(n));
+	return 0;
 }

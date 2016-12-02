@@ -18,8 +18,5 @@
     <ClCompile Include="..\..\Chap02\recursive-factorial - kopia.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Chap02\recursive-factorial.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

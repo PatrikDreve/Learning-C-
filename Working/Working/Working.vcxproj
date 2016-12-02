@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Chap02\recursive-factorial - kopia.cpp" />
-    <ClCompile Include="..\..\Chap02\recursive-factorial.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{4E74CD64-CC14-44B0-8A1E-E98B63765201}</ProjectGuid>

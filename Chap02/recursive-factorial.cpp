@@ -1,4 +1,4 @@
-/* recursive-factorial.cpp by Bill Weinman <http://bw.org/>
+//recursive-factorial.cpp by Bill Weinman <http://bw.org/>
 #include <cstdio>
 using namespace std;
 
@@ -11,4 +11,4 @@ int main( int argc, char ** argv ) {
     unsigned long int n = 7;
     printf("Factorial of %ld is %ld\n", n, factorial(n));
     return 0;
-}*/
+}
